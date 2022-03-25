@@ -1,4 +1,3 @@
-
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
             targetNamespace="http://example.org/ord"
             xmlns="http://example.org/ord"
